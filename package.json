@@ -1,0 +1,30 @@
+{
+  "name": "node",
+  "version": "1.0.0",
+  "description": "shubh ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shubh7479/nodejs.git"
+  },
+  "keywords": [
+    "code",
+    "with",
+    "shubham"
+  ],
+  "author": "subham srivastva",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shubh7479/nodejs/issues"
+  },
+  "homepage": "https://github.com/shubh7479/nodejs#readme",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "ejs": "^3.1.7",
+    "express": "^4.18.1",
+    "mongodb": "^4.5.0"
+  }
+}
